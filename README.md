@@ -10,7 +10,6 @@
 - 💡 Strong interest in Artificial Intelligence and backend development  
 - 🚀 Passionate about solving real-world problems through technology  
 
-- 🛠️ Working with Python, Flutter, and modern web technologies
   
 
 <br clear="right"/>
