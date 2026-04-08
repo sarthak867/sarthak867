@@ -14,7 +14,7 @@
   ## 🌐 My Portfolio
 
 <p align="center">
-  <a href="https://sarthak867.github.io/portfolio/" target="_blank">
+  <a href="https://sarthakrajvanshi.c38.airoapp.ai/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
