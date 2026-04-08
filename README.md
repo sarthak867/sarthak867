@@ -1,8 +1,9 @@
 # Hi 👋, I'm Sarthak Rajvanshi
 
+
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img align="right" src="https://sarthakrajvanshi.c38.airoapp.ai/" width="260"/>
 
 - 🎓 Pre-final year B.Tech student in Computer Science & Artificial Intelligence (CSAI)  
 - 📍 Studying at GL Bajaj Institute of Technology & Management  
@@ -10,7 +11,13 @@
 - 💡 Strong interest in Artificial Intelligence and backend development  
 - 🚀 Passionate about solving real-world problems through technology  
 
-  
+  ## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://sarthak867.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 <br clear="right"/>
 
