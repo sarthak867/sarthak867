@@ -1,59 +1,60 @@
-# Hi 👋, I'm Sarthak Rajvanshi
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Sarthak Rajvanshi</h1>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Enthusiast;Backend+Developer;Problem+Solver;Building+Real-World+Projects" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://sarthakrajvanshi.c38.airoapp.ai/" width="260"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 - 🎓 Pre-final year B.Tech student in Computer Science & Artificial Intelligence (CSAI)  
-- 📍 Studying at GL Bajaj Institute of Technology & Management  
+- 📍 GL Bajaj Institute of Technology & Management  
 
 - 💡 Strong interest in Artificial Intelligence and backend development  
 - 🚀 Passionate about solving real-world problems through technology  
 
-  ## 🌐 My Portfolio
+
+
+
+## 🌐 My Portfolio
 
 <p align="center">
   <a href="https://sarthakrajvanshi.c38.airoapp.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+   <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
 </p>
 
-<br clear="right"/>
+<p align="center">
+  <b>✨ Check out my projects, skills, and work ✨</b>
+</p>
 
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakrajvanshi)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sarthakrajvanshi124@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1F1F1F?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sarthakrajvanshi/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2F1B0C?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/sarthakraj_124)
 
-## 💻 Tech Stack:
+### 💻 Languages & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="38" height="38" alt="C"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="38" height="38" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="38" height="38" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="38" height="38" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="38" height="38" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="38" height="38" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="38" height="38" alt="React"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="38" height="38" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="38" height="38" alt="VS Code"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="38" height="38" alt="Flask"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="38" height="38" alt="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="38" height="38" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="38" height="38" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="38" height="38" alt="Azure"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="38" height="38" alt="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,html,css,tailwind,react,git,vscode,flask,fastapi,mysql,mongodb,azure" />
 </p>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarthak867&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=sarthak867&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak867&theme=dracula&hide_border=false&layout=compact)
 
----
+
+## 🐍 Contribution Map:
+
 [![](https://visitcount.itsvg.in/api?id=sarthak867&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
