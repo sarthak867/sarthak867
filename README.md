@@ -48,9 +48,12 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarthak867&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=sarthak867&theme=dracula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak867&theme=dracula&hide_border=false&layout=compact)
+
+![](https://github-readme-stats-six-pi-85.vercel.app/api?username=sarthak867&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarthak867&theme=dark-minimalist)](https://git.io/streak-stats)
+
+![](https://github-readme-stats-six-pi-85.vercel.app/api/top-langs/?username=sarthak867&theme=dracula&hide_border=false&layout=compact)
 
 
 ## 🐍 Contribution Map:
