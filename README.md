@@ -12,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-- 🎓 Pre-final year B.Tech student in Computer Science & Artificial Intelligence (CSAI)  
+- 🎓 Final year B.Tech student in Computer Science & Artificial Intelligence (CSAI)  
 - 📍 GL Bajaj Institute of Technology & Management  
 
 - 💡 Strong interest in Artificial Intelligence and backend development  
